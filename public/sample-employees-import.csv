@@ -1,0 +1,4 @@
+employeeId,employeeName,email,department,status
+EMP001,John Doe,john.doe@example.com,IT,Active
+EMP002,Jane Smith,jane.smith@example.com,HR,Active
+EMP003,Mark Lee,mark.lee@example.com,IT,Inactive

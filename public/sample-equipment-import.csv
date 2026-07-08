@@ -1,0 +1,4 @@
+equipmentName,equipmentCode,category,activeStatus
+Laptop,LT,Laptops,true
+Desktop,DT,Workstations,true
+Projector,PJ,AV,true

@@ -1,0 +1,4 @@
+equipmentCode,departmentCode,locationCode,serial,employeeId,status,technician,maintenanceTeam,workCenter,remarks
+LT,IT,TGH-FB-B1-1F,SN-EXAMPLE-001,EMP001,Active,John Doe,Team A,WC-01,Initial deployment
+LT,IT,TGH-FB-B1-1F,SN-EXAMPLE-002,,Spare,Jane Smith,Team B,WC-02,Ready for assignment
+LT,HR,TGH-FB-B1-2F,SN-EXAMPLE-003,EMP002,Under Repair,Tech Lead,Maintenance Team,WC-03,Hardware upgrade pending

@@ -1,0 +1,6 @@
+{
+  "name": "TGH Asset Management System",
+  "description": "Create a complete production-ready Asset Management System to manage 1000+ company assets across departments, employees, buildings, and locations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
